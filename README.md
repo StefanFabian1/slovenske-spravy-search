@@ -130,17 +130,13 @@ def vyhladaj_podobne_spravy(text, model, index, pocet=5):
 - Refresher.sk
 - StartitUp
 
-## 🤝 Prispievanie
-
-Príspevky sú vítané! Prosím, vytvorte issue alebo pull request.
-
 ## 📝 Licencia
 
 MIT License
 
 ## 👥 Autori
 
-- Váš meno - Hlavný vývojár
+- Štefan Fabian - Hlavný vývojár
 
 ## 🙏 Poďakovanie
 
